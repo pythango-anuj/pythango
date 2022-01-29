@@ -4,7 +4,8 @@
 
 - 🌱 I’m currently exploring more and more in the field of Web Development. 
 
-- 💞️ I’m also looking to contribute in the field of Machine learning in upcoming years.
+- 💞️ Other than Backend development making single page applications using React.js is another field of interest. 
+-    I’m also looking to contribute in the field of Machine learning in upcoming years.
 
 - 📫 One can contact and know me in detail through my Linked Profile(https://www.linkedin.com/in/pythango/)
 
