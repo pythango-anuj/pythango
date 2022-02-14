@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pythango(ANUJ PANDEY). A Python developer with 3 years of working experience in Django, Django Rest Framework.
+- 👋 Hi, I’m @pythango(ANUJ PANDEY). A Python developer experience in Django, Django Rest Framework.
 
 - 👀 Utilized Python, Django REST Framework, MySQL etc. to design server applications and client interfaces.
 
